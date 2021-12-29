@@ -23,9 +23,9 @@ email: xieheng0915@gmail.com
 description: A tech site for Mangxier personal usage
 #domain: tech_site.github.io
 domain: "xieheng0915.github.io"
-url: "https://tech_site.github.io"
+#url: "https://tech_site.github.io"
 url: "https://xieheng0915.github.io"
-baseurl: "/tech_site"
+baseurl: "/tech_site/docs"
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xieheng0915
